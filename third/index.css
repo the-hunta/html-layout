@@ -1,0 +1,49 @@
+#section1{
+    background: lightgrey;
+    width: 100vw;
+    height: 15vh;
+    position: relative;
+}
+
+#section2{
+    text-align: left;
+    margin: 40px 40px 40px 80px;
+    font-size: 24px;
+
+
+}
+
+#section3{
+    background: rgb(50, 120, 201);
+    width: 100vw;
+    height: 15vh;
+}
+
+#section4{
+    background: rgb(28, 194, 172);
+    width: 100vw;
+    height: 15vh;
+}
+
+#section5{
+    background: rgb(125, 207, 125);
+    width: 100vw;
+    height: 15vh;
+}
+
+#section6{
+    background: rgb(235, 235, 27);
+    width: 100vw;
+    height: 15vh;
+}
+
+#box1{
+    background: rgba(28, 109, 230, 0.959);
+    position: absolute;
+    height: 80px;
+    width: 80px;
+    bottom: 565px;
+    left: 20px;
+
+
+}
